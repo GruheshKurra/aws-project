@@ -1,0 +1,21 @@
+{
+    "appName": "latestawsproject",
+    "roleName": "pinpointLambdaRole6a578981",
+    "cloudformationPolicyName": "cloudformationPolicy6a578981",
+    "cloudWatchPolicyName": "cloudWatchPolicy6a578981",
+    "pinpointPolicyName": "pinpointPolicy6a578981",
+    "authPolicyName": "pinpoint_amplify_6a578981",
+    "unauthPolicyName": "pinpoint_amplify_6a578981",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

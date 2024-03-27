@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3latestawsprojectstorage427ca0b0",
+  "bucketName": "latest-aws-project-storage-427ca0b0",
+  "policyUUID": "3db76bb8",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

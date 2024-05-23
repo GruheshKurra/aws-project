@@ -1,15 +1,6 @@
 {
   "staging": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-latestawsproject-staging-41725-authRole",
-      "UnauthRoleArn": "arn:aws:iam::643513865921:role/amplify-latestawsproject-staging-41725-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::643513865921:role/amplify-latestawsproject-staging-41725-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-latestawsproject-staging-41725-deployment",
-      "UnauthRoleName": "amplify-latestawsproject-staging-41725-unauthRole",
-      "StackName": "amplify-latestawsproject-staging-41725",
-      "StackId": "arn:aws:cloudformation:us-east-1:643513865921:stack/amplify-latestawsproject-staging-41725/7c0c39d0-b5b8-11ee-b4ab-0ae2b7660323",
-      "AmplifyAppId": "d3ck6yb2gxytt5"
+    ADD OWN DETAILS
     },
     "categories": {
       "auth": {
